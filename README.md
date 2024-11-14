@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars](https://github.r2v.ch/codewars?user=cormobro)
+![Codewars](https://github.r2v.ch/codewars?user=cormobro&stroke=%23BB432C)
+
