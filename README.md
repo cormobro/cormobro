@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Codewars](https://github.r2v.ch/codewars?user=cormobro&stroke=%23BB432C)
-![Cormobro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cormobro&show_icons=true&theme=tokyonight)
+![Cormobro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cormobro&show_icons=true&theme=onedark)
 
 
